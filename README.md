@@ -15,3 +15,5 @@ A lot of analyst work with words. Although numbers are much easier to work with 
 This next one is a problem that was presented in my accounting adventure. We were given a list of numbers and I needed to find the sums that added to 0. I call this finding the Null Space. However there are so many numbers that the basic algorithm of finding the number of combinations would be too slow. So the question is as follows:
 
     Is there an efficient way, given a list of numbers, to find the Null Space. (I.E. the maximum numbers that add to 0)?
+    
+ 
