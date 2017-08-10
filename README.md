@@ -25,3 +25,18 @@ The other day I was looking into patterns that arise in financial cashflows. The
    How do we know there is a better pdf for some given data? 
    Do some sets of data follow multiple pdfs?
    
+## Financial Analysis
+
+My favorite way to apply my mathematics is through unpredictable patterns in pricing and balances. Basically any quantitative value I can get my hands on that aren't obviously predictable. An example is a stock price or what the balance for a company will be in a month. 
+
+Lately I have been dealing with a lot of quantitative data. There is a lot of quantitative data available. I want to try to find a trend or pattern. Find a method of a sort so I can predict what is going to happen next. That or be able to come out with some type of measure; that is, to show that a certain set of data has these attributes. I have begin searching for a predictability using Probability, Statistics, and Numerical Analysis. 
+
+The first step I have taken into understanding a set of data is mastering Taylor's Polynomial. Taylor's Polynomial is a way to approximate by a function about a point. This can be useful if a pattern has already been figured out. I can use this to know I have found a pattern. Well I suppose if the pattern is able to be written as a function.
+
+The next step is getting a function from a set of data. I can do this by using interpolation. There are many methods for interpolating points. Interpolation is finding an approximation in the form of a function of some given quantitative data. I should note that this cannot approximate points outside of a the data. This is strictly used for points within the interval of the data. If a pattern does repeat with interpolation we can proceed to use taylor's polynomials to find what will happen next. 
+
+I have already gone over the methods of the basic polynomial interpolation. It seems somewhat straight forward, but computing the polynomial can result in difficulties with computation time and memory storage. This was my first attempt at approximating data, and it isn't a bad approach, however I feel that I am looking for something that doesn't blow up outside of the data points. An interpolation that is more controlled.
+
+Another type of interpolation I have looked into is Lagrange Interpolation. I have no idea where to begin with this. It seems very interesting and can prove useful for predicting stabilized time series or finding a sort of pattern. I have reason to beleive that there are some similarities with this and fourier analysis. Nonetheless I still need more of a conceptial grasp on Lagrange Polynomial before I move further in my studies.
+
+My end goal of all of this is to see what role interpolation has in unpredictable patterns. I understand there is alot of random involved with finance. If a direct pattern cannot be found, then maybe a pattern can be found with predicting the chances that something will happen next; that is, we can predict the probability distribution function.
