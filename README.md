@@ -40,3 +40,17 @@ I have already gone over the methods of the basic polynomial interpolation. It s
 Another type of interpolation I have looked into is Lagrange Interpolation. I have no idea where to begin with this. It seems very interesting and can prove useful for predicting stabilized time series or finding a sort of pattern. I have reason to beleive that there are some similarities with this and fourier analysis. Nonetheless I still need more of a conceptial grasp on Lagrange Polynomial before I move further in my studies.
 
 My end goal of all of this is to see what role interpolation has in unpredictable patterns. I understand there is alot of random involved with finance. If a direct pattern cannot be found, then maybe a pattern can be found with predicting the chances that something will happen next; that is, we can predict the probability distribution function.
+
+## Risk Analysis
+
+Mathematics can make choices kind of dull. What I mean by this is knowing the "best" solution can make choosing any other decision wrong. And once the problem has been solved after the same "best" solution has been implemented and routinely practiced it seems like there is no room for growth. It just becomes a dull set of routinely practiced optimized set of decisions. 
+
+That's what makes Risk Analysis so fun. The decision might be the "best" solution but it is unpredictable what is going to happen next. Also alot of the time there is no "best" solution. Sometimes it comes down to risk for reward. That is what makes it thrilling. The mathematical observation of what a mathematician thinks will happen and what actually happens. If the mathematician is lucky enough to pin the tail on the donkey and find the true probabilities of the outcomes he is observing, then he can still ride along with the unpredictability. 
+
+For example, if we know a coin was going to land on heads 60% of the time, and we put $5 dollars that heads is going to win. Let that if heads wins we win $5 and if it loses we lose $5. When should we stop? Certainly we want to make as much as possible so the mathematical solution would be as much as possible, but is this possible? And sometimes it is about the journey. If we keep betting and keep winning more than 60% of the time should we walk away. And if so to what winnning percentage can we agree that we will most likely never reach this point again. It could also be the case that we lose all of our money in the first spins because they all land on tails. Anything is possible even though it isn't probable.
+
+When you put this scenarios in a business standpoint we can't ever reach the point of being bankrupt. Not even close to 1% becuase that would mean over a long period of time the company will eventually go bankrupt! So in a practical sense we have to avoid every catstrophic event of failure while maximizing our profitability. This is for a business standpoint. From a personal standpoint you might want to maximize your profitability without even glancing at the thought of bankrupcy.
+
+The adreneline of risking money for more money. The journey it brings, and the rewards it reaps are what make risk analysis exciting. And when I say risk analysis I don't just mean risk analysis I mean the application of risk analysis. Identifying the probabilities (pdfs) and what is the optimized routes are usually the easy part. The real difficulty is when to call it quits, and when to put more on the table.
+
+
