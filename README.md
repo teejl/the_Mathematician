@@ -63,3 +63,12 @@ Now if we focus on the graph that displays the activity we can see that the grap
 
 So this is where my road ends. Yes we are able to compare against ourselves to see our progress as a company, but how do we find a ratio measurement that shows that we can do better. That we are not the best even though we are making progress, or to how good we are with respect to maximum efficiency. There could be documents out there that solve this question, but for now I shall let my mind wonder.
 
+## Forecasting
+
+One major topic in mathematics is forecasting (aka extrapolation, approximation theory, or predictive analytics). It is basically taking a set of points with respect to some given time frame, and trying to predict the next point. Now there are two obvious approaches that come to mind whenever trying to "predict" the next point. One is using fourier analysis and the other is probability.
+
+The first approach we can use polynomial interpolation with trignometric functions. This is also called fourier analysis. This works really well if patterns tend to repeat themselves. Furtheremore if you are dealing with truly unpredictable data, then this will most likely be jibberish. 
+
+The second approach is using intervals and finding the probablility that the next point will be in particular locations. This is excellently paired with the prior, since if the pattern is highly leaned in one direction or the other it will reveal itself. The method used for this is Guassian Process. In fact this is a huge topic in machine learning if I'm not mistaken. 
+
+It creates an infinitely deminsional normal distribution out of only finitely many points. More details I will not be able to explain until I jump into the juicy topic myself.
