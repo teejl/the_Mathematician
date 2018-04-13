@@ -65,7 +65,7 @@ So this is where my road ends. Yes we are able to compare against ourselves to s
 
 ## Forecasting
 
-One major topic in mathematics is forecasting (aka extrapolation, approximation theory, or predictive analytics). It is basically taking a set of points with respect to some given time frame, and trying to predict the next point. Now there are two obvious approaches that come to mind whenever trying to "predict" the next point. One is using fourier analysis and the other is probability.
+One major topic in mathematics is forecasting (aka extrapolation, approximation theory, or predictive analytics). It is basically taking a set of points with respect to some given time frame, and trying to predict the next point. Now there are two approaches that come to mind whenever trying to "predict" the next point. One is using fourier analysis and the other is probability.
 
 The first approach we can use polynomial interpolation with trignometric functions. This is also called fourier analysis. This works really well if patterns tend to repeat themselves. Furtheremore if you are dealing with truly unpredictable data, then this will most likely be jibberish. 
 
