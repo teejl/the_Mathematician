@@ -1,6 +1,7 @@
 # the_Mathematician
 
 My mathematics journey. Please enjoy!
+$$ x = /alpha $$
 
 ## Questions:
 
