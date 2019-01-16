@@ -4,7 +4,11 @@ My mathematics journey. Please enjoy!
 
 ## Questions:
 
-A good mathematician can solve problems. A great mathematician can ask the right questions. I have always been told this in school. It makes sense. There are alot of questions in the world that can be observed mathematically in the world, but what is to gain if solved? I will brainstorm some questions that I find interesting in my day to day life. Questions that I will find the answer particularly interesting. Perhaps these questions have already been solved, but I will still present them.
+A good mathematician can solve problems. A great mathematician can ask the right questions. I have always been told this in school. It makes sense. There are alot of questions in the world that can be observed mathematically, but what is to gain if solved? I will brainstorm some questions that I find interesting in my day to day life. Questions that I will find the answer particularly interesting. Perhaps these questions have already been solved, but I will still present them.
+
+### Texas Hold'em Betting
+
+Can a strategy be placed to make the users fold given a sequence of bets? If a player could find a sequence of bets to scare others (bluff) it would be interesting. Whenever I talk about this problem I think of statistical odds. Taking data from games of Texas Hold'em and focus on the hands that don't make it past the river. Is there some correlation in the betting strategy? Perhaps the time in the bets? Perhaps in the amounts? Quite interesting questions.
 
 ### Word Match
 A lot of analyst work with words. Although numbers are much easier to work with these words sometimes need to be searched with different databases (or sets). However words unlike numbers can't be matched so easily. For example, just the slightest letter can throw everything off. If you are trying to match the word "Thomas J" with "Thomas J." it most likely will not match. Of course we can go through the list of names and take away "." value to match, but we will still have the cases like matching "Thomas J" with "Thomas Joseph" or "J Thomas" with "Thomas J". There are many more difficulties that arise with this. So my questions is as follows:
